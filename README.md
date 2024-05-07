@@ -1,6 +1,6 @@
 # fpvGSEE
 
-This GitHub repository includes python code for calculating floating photovoltaics (FPV) power output for the global lakes and reservoirs based on the [GSEE algorithm](https://doi.org/10.1016/j.energy.2016.08.060). The generated dataset can be accessed at [Figshare](https://figshare.com/XX). 
+This GitHub repository includes python code for calculating floating photovoltaics (FPV) power output for the global lakes and reservoirs based on the [GSEE algorithm](https://doi.org/10.1016/j.energy.2016.08.060). The generated dataset can be accessed at [Figshare](https://figshare.com/s/c349d8eccce6558977cf). 
 
 **ERA5_data**
 

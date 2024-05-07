@@ -18,4 +18,4 @@ This code calls the GSEE code and calculate power output for each latitudinal re
 
 This code merges all latitudinal regions to create the global FPV power output dataset. Also, it plots an example for the month of August.
 
-![Alt text](../images/PV.png?raw=true "Photovoltaics")
+![Alt text](images/PV.png?raw=true "Photovoltaics")
